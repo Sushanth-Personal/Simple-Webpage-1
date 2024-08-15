@@ -8,7 +8,7 @@ This is a responsive webpage created using only HTML and CSS. The design adapts 
 **Pure HTML & CSS:** The entire webpage is built using only HTML and CSS, with no JavaScript or external frameworks.
 
 # Preview
-https://sushanth-personal.github.io/Simple-Webpage-2/
+https://sushanth-personal.github.io/Simple-Webpage-1/
 
 # How to Use
 Clone this repository to your local machine:
