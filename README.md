@@ -13,8 +13,7 @@ https://sushanth-personal.github.io/Simple-Webpage-1/
 # How to Use
 Clone this repository to your local machine:
 
-git clone https://github.com/Sushanth-Personal/Simple-Webpage-2.git
+git clone https://github.com/Sushanth-Personal/Simple-Webpage-1.git
 Open the index.html file in your web browser.
 
 Resize your browser window or view the page on different devices to see the responsive design in action.
-# web-development-projects
